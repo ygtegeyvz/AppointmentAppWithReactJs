@@ -1,0 +1,7 @@
+.app-container{
+  min-height: 350px;
+}
+
+a {
+  cursor: pointer; 
+}
